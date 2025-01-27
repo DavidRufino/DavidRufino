@@ -1,8 +1,6 @@
 <div align="center">
   <h1> Hello, I'm David! </h1>
   
-  <img src="https://readme-stats-hg-yaa7.vercel.app/api?username=DavidRufino&hide_title=false&hide_border=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=false&hide_rank=true&border_radius=15" />
-
   <img height="190px" src="https://readme-stats-hg-yaa7.vercel.app/api/top-langs/?username=DavidRufino&hide=Jupyter%20Notebook&langs_count=8&layout=compact&hide_border=true&theme=vision-friendly-dark&border_radius=15" />  
 
 </div>
